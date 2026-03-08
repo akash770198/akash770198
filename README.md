@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
-<h3 align="center">Full Stack Developer | React • Node.js • Cloud</h3>
+<h3 align="center">Full Stack Developer | React • Node.js </h3>
 
 ---
 
