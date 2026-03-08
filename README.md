@@ -55,7 +55,7 @@ Interactive web app that visually demonstrates sorting algorithms.
 
 ## 📊 GitHub Stats
 
-![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=tokyonight)
+![Akash's GitHub stats](https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=tokyonight&rank_icon=github)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akash770198&layout=compact&theme=tokyonight)
 
