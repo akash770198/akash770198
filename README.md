@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Full Stack Developer | React • Node.js </h3>
+<p align="center">
 🌐 Portfolio: https://akash-kumar-behuria-portfolio-08.vercel.app/
+</p>
+
 ---
 
 ## 👨‍💻 About Me
