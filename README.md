@@ -17,10 +17,14 @@ I enjoy building real-world products and continuously improving my skills in **s
 
 ## 🛠 Tech Stack
 
+### Languages
+![C++](https://skillicons.dev/icons?i=cpp)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![TypeScript](https://skillicons.dev/icons?i=ts)
+
 ### Frontend
 ![React](https://skillicons.dev/icons?i=react)
 ![NextJS](https://skillicons.dev/icons?i=nextjs)
-![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 
 ### Backend
@@ -36,22 +40,33 @@ I enjoy building real-world products and continuously improving my skills in **s
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Vercel](https://skillicons.dev/icons?i=vercel)
 ![Git](https://skillicons.dev/icons?i=git)
-![Github](https://skillicons.dev/icons?i=github)
+![GitHub](https://skillicons.dev/icons?i=github)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 📦 CodeBox
 A developer learning platform with courses, dashboards, and project-based learning.
 
-### 🏥 DocHive
-Full-stack doctor appointment management system with authentication and admin controls.
-
-### 📊 Sorting Visualizer
-Interactive web app that visually demonstrates sorting algorithms.
+🔗 Live Demo: [https://your-codebox-link.vercel.app](https://codebox2-0-eight.vercel.app/)  
+💻 Source Code: https://github.com/akash770198/codebox
 
 ---
+
+### 🏥 DocHive
+A full-stack doctor appointment management system with authentication and admin controls.
+
+🔗 Live Demo: [https://your-dochive-link.vercel.app  ](https://doc-hive-frontend.vercel.app/)
+💻 Source Code: https://github.com/akash770198/dochive
+
+---
+
+### 📊 Sorting Visualizer
+Interactive web app that visually demonstrates how sorting algorithms work.
+
+🔗 Live Demo: [https://your-sorting-link.vercel.app ](https://sorting-visualiser-teal.vercel.app/) 
+💻 Source Code: https://github.com/akash770198/sorting-visualizer
 
 ## 📊 GitHub Stats
 
