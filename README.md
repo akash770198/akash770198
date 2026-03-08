@@ -50,7 +50,7 @@ I enjoy building real-world products and continuously improving my skills in **s
 A developer learning platform with courses, dashboards, and project-based learning.
 
 🔗 Live Demo: [https://your-codebox-link.vercel.app](https://codebox2-0-eight.vercel.app/)  
-💻 Source Code: https://github.com/akash770198/codebox
+💻 Source Code: [https://github.com/akash770198/codebox](https://github.com/akash770198/codebox2.0)
 
 ---
 
@@ -66,7 +66,7 @@ A full-stack doctor appointment management system with authentication and admin 
 Interactive web app that visually demonstrates how sorting algorithms work.
 
 🔗 Live Demo: [https://your-sorting-link.vercel.app ](https://sorting-visualiser-teal.vercel.app/) 
-💻 Source Code: https://github.com/akash770198/sorting-visualizer
+💻 Source Code: [[https://github.com/akash770198/sorting-visualizer](https://github.com/akash770198/Sorting-Visualiser)](https://github.com/akash770198/DocHive)
 
 ## 📊 GitHub Stats
 
