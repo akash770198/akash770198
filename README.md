@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akash Kumar</h1>
+<h1 align="center">Hi 👋, I'm Akash</h1>
 <h3 align="center">Full Stack Developer | React • Node.js • Cloud</h3>
 
 ---
