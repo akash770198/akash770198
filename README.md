@@ -142,22 +142,19 @@ open_to  : Collaborations & side projects
 
 ---
 
-### 📊 &nbsp;GitHub Stats
+## 📊 GitHub Stats
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash770198&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=534AB7&icon_color=1D9E75&text_color=444441&bg_color=fafafa" />
-&ensp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash770198&layout=compact&hide_border=true&title_color=534AB7&text_color=444441&bg_color=fafafa" />
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=akash770198&theme=tokyonight&hide_border=true" />
+</div>
 
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=akash770198&hide_border=true&background=fafafa&ring=534AB7&fire=D85A30&currStreakLabel=534AB7&sideLabels=888780&dates=888780" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash770198&theme=minimal&hide_border=true&bg_color=fafafa&color=534AB7&line=7F77DD&point=1D9E75&area=true" />
-
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akash770198&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
