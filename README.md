@@ -25,7 +25,7 @@
 const akash = {
   role: "Full Stack Developer Intern",
   location: "India 🇮🇳",
-  currentlyLearning: ["AWS", "Cloud Deployment", "System Design"],
+  currentlyLearning: ["AWS", "Cloud Deployment"],
   practicing: "Data Structures & Algorithms",
   techStack: ["React", "Next.js", "Node.js", "TypeScript", "PostgreSQL"],
   funFact: "I enjoy building real-world products from scratch ⚡"
