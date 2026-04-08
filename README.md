@@ -1,26 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d0221,50:0a0a2e,100:1a0533&height=200&section=header&text=Akash%20Kumar%20Behuria&fontSize=44&fontColor=c084fc&fontAlignY=55&desc=Full%20Stack%20Developer%20%E2%80%A2%20Building%20the%20Future%20One%20Commit%20at%20a%20Time&descAlignY=75&descSize=13&animation=twinkling&fontAlign=40" />
-
-</div>
-
-<div align="center">
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=600&size=15&duration=2500&pause=600&color=A855F7&center=true&vCenter=true&width=500&lines=%E2%9A%A1+Crafting+scalable+full-stack+apps;%F0%9F%94%A5+React+%C2%B7+Next.js+%C2%B7+Node.js+%C2%B7+TypeScript;%E2%98%81%EF%B8%8F+Leveling+up+with+AWS+%26+Cloud;%F0%9F%A7%A0+DSA+grinder+%E2%80%94+no+days+off;%F0%9F%8C%9F+Open+to+collabs+%26+side+projects" />
-</a>
-
-</div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20&height=200&section=header&text=Akash%20Kumar&fontSize=55&fontColor=fff&fontAlignY=45&desc=Full%20Stack%20Developer%20%E2%80%A2%20React%20%E2%80%A2%20Node.js%20%E2%80%A2%20TypeScript&descAlignY=68&descSize=15&animation=twinkling" />
 
 <br/>
 
-<div align="center">
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=17&duration=3000&pause=800&color=7F77DD&center=true&vCenter=true&width=460&lines=Building+scalable+web+apps+%F0%9F%9A%80;React+%C2%B7+Node.js+%C2%B7+TypeScript;Exploring+AWS+%26+Cloud+%E2%98%81%EF%B8%8F;Practicing+DSA+every+day+%F0%9F%A7%A0;Always+open+to+collaborate+%E2%9C%A8" />
+</a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=akash770198&color=a855f7&style=flat-square&label=👁️+Profile+Views)](https://github.com/akash770198)
+<br/><br/>
+
+![Visitors](https://komarev.com/ghpvc/?username=akash770198&color=7F77DD&style=flat-square&label=Profile+Views)
 &ensp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-797ab0294)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-797ab0294)
 &ensp;
-[![Portfolio](https://img.shields.io/badge/Portfolio-a855f7?style=flat-square&logo=vercel&logoColor=white)](https://akash-kumar-behuria-portfolio-08.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F77DD?style=flat-square&logo=vercel&logoColor=white)](https://akash-kumar-behuria-portfolio-08.vercel.app/)
 &ensp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/7701989367/)
 
@@ -28,205 +22,154 @@
 
 ---
 
-## ⚡ About Me
+<img align="right" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="320" />
 
-<img align="right" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" />
+### 👋 &nbsp;About Me
 
-```typescript
-const akash = {
-  name    : "Akash Kumar Behuria",
-  role    : "Full Stack Developer Intern",
-  base    : "India 🇮🇳",
-  code    : ["TypeScript", "JavaScript", "C++"],
-  stack   : {
-    frontend : ["React", "Next.js", "TailwindCSS"],
-    backend  : ["Node.js", "Express"],
-    database : ["PostgreSQL", "MongoDB", "MySQL"],
-    cloud    : ["AWS", "Vercel"],
-  },
-  grind   : "DSA — every single day 🧠",
-  current : "Exploring AWS & Cloud Architecture ☁️",
-  collab  : true,
-  motto   : "Ship fast, learn faster 🚀",
-};
+```yaml
+name     : Akash Kumar Behuria
+title    : Full Stack Developer Intern
+location : India 🇮🇳
+learning : [AWS, Cloud Deployment]
+grinding : Data Structures & Algorithms
+building : Real-world products from scratch ⚡
+open_to  : Collaborations & side projects
 ```
+
+- 💻 Passionate about building **scalable web applications**
+- ☁️ Currently leveling up with **AWS & Cloud**
+- 🧠 Daily **DSA** practice — consistency is the cheat code
+- 🚀 Shipping with **React, Next.js, Node.js**
+- 🤝 Always open to **interesting collaborations**
 
 <br clear="right"/>
 
 ---
 
-## 🛠️ Tech Arsenal
+### 🛠️ &nbsp;Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,cpp&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=nodejs,express,postgres,mongodb,mysql&theme=dark" /><br/><br/>
-<img src="https://skillicons.dev/icons?i=aws,vercel,git,github,vscode&theme=dark" />
-
-</div>
-
-<br/>
-
-<div align="center">
+**Languages**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+**Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Databases**
+
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-404D59?style=for-the-badge&logo=express&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Cloud & Tools**
+
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+### 🚀 &nbsp;Featured Projects
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
-</div>
-
-<br/>
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>📦 CodeBox 2.0</h3>
-
-> EdTech platform with courses, dashboards, and project-based learning — built for learners who ship.
-
-<p>
-  <a href="https://codebox2-0-eight.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-a855f7?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/akash770198/codebox2.0">
-    <img src="https://img.shields.io/badge/📂_Source-0d1117?style=for-the-badge&logo=github"/>
-  </a>
+<h3 align="center">📦 CodeBox 2.0</h3>
+<p align="center">
+  <a href="https://codebox2-0-eight.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-7F77DD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/akash770198/codebox2.0"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+<p align="center">EdTech platform with courses, dashboards, and project-based learning.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+</p>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-<h3>🏥 DocHive</h3>
-
-> Doctor appointment system with JWT auth, role-based admin controls, and real-time booking.
-
-<p>
-  <a href="https://doc-hive-frontend.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-1D9E75?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/akash770198/dochive">
-    <img src="https://img.shields.io/badge/📂_Source-0d1117?style=for-the-badge&logo=github"/>
-  </a>
+<h3 align="center">🏥 DocHive</h3>
+<p align="center">
+  <a href="https://doc-hive-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-1D9E75?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/akash770198/dochive"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Express](https://img.shields.io/badge/Express-404D59?style=flat-square&logo=express&logoColor=white)
+<p align="center">Full-stack doctor appointment system with auth & admin controls.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+</p>
 
 </td>
 </tr>
 <tr>
-<td colspan="2" align="center">
+<td colspan="2" valign="top">
 
-<h3>📊 Sorting Visualizer</h3>
-
-> Interactive web app that animates sorting algorithms step-by-step — making DSA visual and intuitive.
-
-<p>
-  <a href="https://sorting-visualiser-teal.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Demo-378ADD?style=for-the-badge"/>
-  </a>
-  <a href="https://github.com/akash770198/Sorting-Visualiser">
-    <img src="https://img.shields.io/badge/📂_Source-0d1117?style=for-the-badge&logo=github"/>
-  </a>
+<h3 align="center">📊 Sorting Visualizer</h3>
+<p align="center">
+  <a href="https://sorting-visualiser-teal.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-378ADD?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  &nbsp;
+  <a href="https://github.com/akash770198/Sorting-Visualiser"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![DSA](https://img.shields.io/badge/DSA-FF4500?style=flat-square)
+<p align="center">Interactive web app that visualizes sorting algorithms with real-time step-by-step animation.</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DSA-FF4500?style=flat-square"/>
+</p>
 
 </td>
 </tr>
 </table>
+</div>
 
 ---
 
-## 📊 GitHub Stats
+### 📊 &nbsp;GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a855f7&icon_color=a855f7&text_color=c9d1d9&ring_color=a855f7" height="175em"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=akash770198&show_icons=true&theme=default&include_all_commits=true&count_private=true&hide_border=true&title_color=534AB7&icon_color=1D9E75&text_color=444441&bg_color=fafafa" />
 &ensp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash770198&layout=compact&hide_border=true&bg_color=0d1117&title_color=a855f7&text_color=c9d1d9" height="175em"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com?user=akash770198&hide_border=true&background=0d1117&ring=a855f7&fire=f97316&currStreakLabel=a855f7&sideLabels=8b949e&dates=8b949e&stroke=21262d&currStreakNum=c9d1d9&sideNums=c9d1d9" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash770198&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a855f7&line=7c3aed&point=f97316&area=true&area_color=a855f7" />
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=akash770198&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
-
-</div>
-
----
-
-## 🧠 DSA Grind
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-1679e14a6c94.gif" width="200" />
-
-<br/><br/>
-
-[![LeetCode Stats](https://leetcard.jacoblin.cool/7701989367?theme=dark&font=Noto%20Sans&ext=heatmap&border=0&radius=20)](https://leetcode.com/u/7701989367/)
-
-</div>
-
----
-
-## 📫 Let's Connect
-
-<div align="center">
-
-<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="30" />
-
-**Got an idea? Let's build it.**
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akash770198&layout=compact&hide_border=true&title_color=534AB7&text_color=444441&bg_color=fafafa" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com?user=akash770198&hide_border=true&background=fafafa&ring=534AB7&fire=D85A30&currStreakLabel=534AB7&sideLabels=888780&dates=888780" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=akash770198&theme=minimal&hide_border=true&bg_color=fafafa&color=534AB7&line=7F77DD&point=1D9E75&area=true" />
+
+</div>
+
+---
+
+### 📫 &nbsp;Let's Connect
+
+<div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akash-kumar-797ab0294)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akash770198)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Grind-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/7701989367/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-a855f7?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-kumar-behuria-portfolio-08.vercel.app/)
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400" />
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7F77DD?style=for-the-badge&logo=vercel&logoColor=white)](https://akash-kumar-behuria-portfolio-08.vercel.app/)
 
 </div>
 
@@ -234,6 +177,9 @@ const akash = {
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:1a0533,100:0a0a2e&height=120&section=footer&text=Always+Building.+Always+Shipping.&fontSize=16&fontColor=a855f7&animation=twinkling&fontAlignY=65" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
+
+**⭐ Always building · Always learning · Always shipping**
+*Open to collabs — let's make something real together*
 
 </div>
